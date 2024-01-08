@@ -1,0 +1,41 @@
+video play
+-------------
+
+1) Navigation / Routing
+
+           give path to react components
+    Library - react-router- dom
+
+    1) npm i react-router-dom
+    2) inorder to give routing the entire aplication should be placed inside BrowserRouter tag
+    3) place all those components which need path inside a routes tag 
+
+
+resfull API- is an architechture
+
+    JSON server - is a light wait and easy to use nodejs tool that simulates a resfull API using JSON file as data source.
+    frend end developer can  without the need to write 
+
+
+
+    features
+    ------------
+
+    easy to setup and userfrendly
+    http method(get,put,post,)
+    just like a real backend API server
+    with JSON server you can perfom CRUD(Create Fread Update Delete) opertions on data to build an intractive application
+    Ability to create customs rules
+
+    How to create JSON server 
+    -------------------
+    create folder
+    package.Json install  - (npm init -y)
+    install JSON server Library   (npm i Json-server)
+
+
+    index.js - node run chyann
+    json-server ne import chyanm
+    create json server
+
+    by default 3000 run avullu react 
